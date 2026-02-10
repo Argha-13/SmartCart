@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # SmartCard – Customer Segmentation Using Unsupervised Machine Learning
 
 SmartCard is a data-driven customer segmentation project that applies **unsupervised machine learning techniques** to analyze e-commerce customer behavior. The goal of this project is to group customers into meaningful clusters so that businesses can better understand their customers and make informed marketing and business decisions.
 
----
+
 
 ## 📌 Project Overview
 
@@ -101,7 +101,4 @@ SmartCard demonstrates how unsupervised machine learning can be effectively used
 **Argha Ghosh**
 
 If you find this project useful, feel free to ⭐ the repository!
-=======
-# SmartCart
-SmartCard is an unsupervised ML project that clusters e-commerce customers using K-Means and Hierarchical Clustering to enable data-driven business insights.
->>>>>>> a88c8432a483f6e0ce0571c48d5ef5078dcbb4af
+
